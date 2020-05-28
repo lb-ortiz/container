@@ -1,6 +1,6 @@
 header {
   width: 100%;
-  background-color: #e79652;
+  background-color: #00510a;
 }
 
 header .center-column {
@@ -8,6 +8,8 @@ header .center-column {
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
+  font-family: 'Baloo Chettan 2', cursive;
+  font-size: 22px;
 }
 
 header > div {
@@ -19,7 +21,7 @@ header > div {
 
 header h1 {
   margin: 0;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 38px;
 }
 
@@ -28,8 +30,9 @@ header nav {
   padding: 0 10px;
   display: flex;
   align-items: center;
-  background-color: #f1d736;
+  background-color: #ffcc2a;
   font-size: 20px;
+  text-align: center;
 }
 
 header nav ol {
@@ -54,4 +57,16 @@ header nav li {
 
 header nav a {
   color: inherit;
+}
+
+header .text-header {
+  margin-top: 10px;
+  
+}
+
+header .img-header {
+  width: 80px;
+  height: 80px;
+  margin-bottom: 15px;
+  margin-right: 10px;
 }
