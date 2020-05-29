@@ -20,7 +20,7 @@ const AppHeader = () => (
           <NavLink to="/random">Estou com Sorte!</NavLink>
         </li>
         <li>
-          <NavLink to="/about">About</NavLink>
+          <NavLink to="/about">Sobre</NavLink>
         </li>
       </ol>
     </nav>
