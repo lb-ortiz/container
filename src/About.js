@@ -5,10 +5,6 @@ const About = () => (
   <main id="about">
     <h2>Sobre esse site</h2>
     <p>
-      Esse website foi inspirado no{' '}
-      <a href="https://twitter.com/thecamjackson">Cam Jackson</a> afim de mostrar o funcionamento da arquitetura de micro frontends
-    </p>
-    <p>
         Micro frontends é um estilo de arquitetura em que é possível 
         projetar independentemente aplicativos de front-end que formam um todo maior. 
         É útil para dividir bases de códigos de front monolíticas em pequenos e mais simples 
