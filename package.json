@@ -1,10 +1,10 @@
 {
-  "name": "@micro-frontends-demo/container",
+  "name": "feira_demo",
   "version": "1.0.0",
-  "description": "Entry point and container application for a micro frontends demo",
-  "repository": "git@github.com:micro-frontends-demo/container",
-  "author": "Cam Jackson",
-  "license": "MIT",
+  "description": "tcc starter projetct",
+  "repository": "git@github.com:lb-ortiz/content",
+  "author": "leo&lucas",
+  "license": "none",
   "scripts": {
     "format": "prettier --write",
     "start": "react-app-rewired start",
